@@ -33,6 +33,10 @@ TiB in size.
     <img src="https://blog.carlosgaldino.com/public/images/gotenksfs_block_group.svg" alt="" style="max-width: 100%;">
 </figure>
 
+## MacOSXFuse 
+To build this project on Mac OSX, macfuse tool should be installed firstly. The official document is recorded in https://osxfuse.github.io/, and the release can be obtained from
+https://github.com/osxfuse/osxfuse/releases/download/macfuse-4.0.5/macfuse-4.0.5.dmg
+
 ## Example
 
 First we need to create the disk image:
